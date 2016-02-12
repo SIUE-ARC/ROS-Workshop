@@ -1,0 +1,1 @@
+In the CMakeList.txt file for this package, make sure to change the project name to match your project, and change all of the source file names and node names for the "add executeable" "add dependancy" and "link library" CMake functions. If you are unsure about this you are more than welcome to ask me (Bryan Orabutt) or shoot me an email: borabut@siue.edu.
