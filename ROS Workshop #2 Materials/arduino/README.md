@@ -6,7 +6,9 @@ ie.
 void setup()
 
 {
+
   s0.attach(<pin number>);
+  
 }
 
 where <pin number> is the pin you are using.
