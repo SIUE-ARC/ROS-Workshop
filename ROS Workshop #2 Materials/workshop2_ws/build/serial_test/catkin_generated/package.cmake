@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "serial_test")
-set(serial_test_MAINTAINER "borabut <borabut@todo.todo>")
-set(serial_test_DEPRECATED "")
-set(serial_test_VERSION "0.0.0")
-set(serial_test_BUILD_DEPENDS "roscpp" "rospy" "serial" "std_msgs")
-set(serial_test_RUN_DEPENDS "roscpp" "rospy" "serial" "std_msgs")
-set(serial_test_BUILDTOOL_DEPENDS "catkin")

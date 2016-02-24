@@ -1,8 +1,0 @@
-prefix=/home/borabut/workshop2_ws/devel
-
-Name: serializer
-Description: Description of serializer
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/borabut/workshop2_ws/devel/lib 
-Requires: 
