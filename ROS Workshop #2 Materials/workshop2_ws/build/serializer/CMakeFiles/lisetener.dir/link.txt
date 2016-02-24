@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/lisetener.dir/src/serializer.cpp.o  -o /home/borabut/workshop2_ws/devel/lib/serializer/lisetener -rdynamic 

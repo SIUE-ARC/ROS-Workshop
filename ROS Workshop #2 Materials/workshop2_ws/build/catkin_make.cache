@@ -1,0 +1,2 @@
+serial:serializer
+-DCATKIN_DEVEL_PREFIX=/home/borabut/workshop2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/borabut/workshop2_ws/install -G Unix Makefiles

@@ -1,0 +1,11 @@
+<launch>
+  <arg name="port" default="/dev/ttyUSB0"/>
+  <arg name="baude" default="9600"/>
+  <arg name="timeout" default="500"/>
+  <node name="serializer" pkg="serializer" type="serializer" output="screen"
+    args="$(arg port) $(arg baude) $(arg timeout)" launch-prefix="xterm -e"/>
+  <node name="talker" pkg="serializer" type="talker" output="screen"
+    launch-prefix="xterm -e"/>
+  <node name="listener" pkg="serializer" type="listener" output="screen"
+    launch-prefix="xterm -e"/>
+</launch>
