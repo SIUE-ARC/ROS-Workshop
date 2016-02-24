@@ -1,3 +1,3 @@
 # ROS-Workshop
-Files for the ROS Workshops
+Files for the ROS Workshops and other ROS materials.
 
