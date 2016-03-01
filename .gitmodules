@@ -1,6 +1,3 @@
-[submodule "serial"]
-	path = serial
-	url = https://github.com/wjwwood/serial/
 [submodule "ROS Workshop #2 Materials/serial"]
 	path = "ROS Workshop #2 Materials/serial"
 	url = https://github.com/wjwwood/serial/
